@@ -1,0 +1,12 @@
+make file VehicleType.h
+
+create enum class VehicleType
+PERSONAL,
+    TRANSPORT,
+    SECURITY
+
+create a class Vehicle
+    int _id;
+    std::string _model_name;
+    float _price;
+    VechicleType _type;

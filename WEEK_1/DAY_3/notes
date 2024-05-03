@@ -1,0 +1,29 @@
+Is a relationship is necessary for the inhertance
+
+Has a relationship is necessary for containment
+
+The mutiple inhertance should not be used it becomese complex
+the mutiple inheritacen is not your primary solution
+
+Inheritacne is used for genralization and spectialization
+
+TO create the spectial requirement or attributes for one of the child class we use inheritacne
+A  common rule that can applied for all the class we use genralization 
+Extand the class-------spetializaation
+and we need to combined the class into one ---genralization
+
+
+//spectialization
+Extention -extending the type 
+creating a subtype,creatind the derived type 
+
+containment:
+1)Association :basic Association, composition, Aggregation
+
+Assotiation :two classes comes and have a connection and create a object
+it is called assoctiation
+
+
+
+Uniform initialization syntax
+

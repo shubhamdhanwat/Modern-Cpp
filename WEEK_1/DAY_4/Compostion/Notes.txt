@@ -1,0 +1,6 @@
+L values and R values
+temparary values are the rvalues
+std::make_shared<customer> it is the rvalues;
+
+
+

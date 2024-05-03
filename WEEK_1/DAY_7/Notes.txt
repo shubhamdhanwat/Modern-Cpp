@@ -1,0 +1,55 @@
+--------------------Keyword------------------
+default
+delete
+override
+final
+nullptr
+noexcept
+auto
+
+-------------------Concept-------------------
+enum class
+rvalue reference  and move semantics
+Uniform initialization
+member list initialization
+constructor deligation
+smart pointers :shared ptr
+range based for each loop
+
+---------------------------------------------
+Types of common logic building exercise :
+
+
+1)Total or algebraic sum operation
+--1)create an initial total variable with initial value as 0
+--2)for each item to be added in the total , do the following 
+    a)fetch the item
+    b)add the item to the sum
+    c)update the sum
+---3)return the final sum
+
+
+2)Find min value from the collection 
+
+eg:find the lowest (minimum ) interger from an array
+
+---1)create a initial min value WHICH MUST BE EQUAL TO THE FIRST ITEM FROM THE collection
+```2)for each item in the collection do the following 
+        a)fetch the item 
+        b)compare the item with the "MIN VALUE "so far
+            b1)if current item is larger than min_value ,"ignore"
+            b2)if current item is smaller , update min_value value
+----3)finally , the min_value now holds the "global minima"
+
+
+3)Find the attribute associated with the "min " value object
+
+eg:finding the car with  min mileage and returning this mileage 
+
+---1)create an initial min value WHICH MUST BE EQUAL TO THE FIRST ITEM FROM THE collection
+---2)also save the attribute (to be returned ) of the first item
+----3)for each object , do the following
+    a)compare and check whether current val is lower than min   
+    b)if yes, update min, update associated value
+    c)if no, ignore 
+----4)return the associated value    

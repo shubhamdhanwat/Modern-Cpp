@@ -1,0 +1,31 @@
+Youtube Links:
+
+mike shah
+cppcon - back to basis - total 20 videos
+
+distrotube - command line (linux) - 10 days to complete
+LearnLinuxTv
+
+
+
+Websites:
+
+cppreference.com
+thisptr.com
+nextptr.com 
+
+
+Short cuts key:
+
+
+VsCode:
+
+
+1) ctrl + b = side bar open/close.
+2) ctrl + p = To open any file
+3) ctrl + w = close current file
+4) ctrl + k + w = close all files
+5) ctrl + enter = to split files
+6) ctrl + tab = to go in 2nd file
+7) Ctrl + 1 = to take cursor in first section
+8) Ctrl + 2 = to take cursor in second section

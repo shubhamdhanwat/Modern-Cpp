@@ -1,0 +1,12 @@
+101
+Maruti_Dzire
+890000
+0
+102
+Honda_City
+900423
+0
+103
+Harrier
+143632
+1
